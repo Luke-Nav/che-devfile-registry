@@ -1,0 +1,5 @@
+displayName: SDLC_Python
+description: Python Stack with Python 3.8 configured with pip
+tags: ["Centos", "Python", "pip"]
+icon: /images/python.svg
+globalMemoryLimit: 1686Mi
